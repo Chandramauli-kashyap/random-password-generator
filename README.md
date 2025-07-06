@@ -11,4 +11,9 @@ A simple Python program that generates strong and secure passwords by combining 
 - Uses `string` and `random` libraries
 - Outputs a new secure password every time
 
+## 🛠️ Technologies Used
+- Python 3
+- Built-in random and string modules
 
+## 💡 Author
+[Chandramauli Kashyap](https://www.linkedin.com/in/chandramaulikashyap/)  
